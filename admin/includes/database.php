@@ -2,8 +2,8 @@
 // Contraseña BD: V41-ljt{a&Th4b;L
 class Connection {
     private $host = "localhost";
-    private $user = "josemanuelsantamargarita_admin";
-    private $pass = "V41-ljt{a&Th4b;L";
+    private $user = "josemanuelsantamargarita_shopJos";
+    private $pass = "shopJos123|@#";
     private $dbname = "josemanuelsantamargarita_practica_final_php";
     
     public function getConnection() {
